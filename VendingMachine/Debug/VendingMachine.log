@@ -1,0 +1,21 @@
+﻿  VendingMachine.cpp
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(985): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1004): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1016): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1052): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1085): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1193): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1252): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1286): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1389): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1501): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1580): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1651): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1828): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1834): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1856): warning C4018: '<': signed/unsigned mismatch
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1869): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  VendingMachine.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  VendingMachine.vcxproj -> C:\Informatica\curso IEFP\modulo 16\mysqlProject\VendingMachine\Debug\VendingMachine.exe
