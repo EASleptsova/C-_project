@@ -1,0 +1,11 @@
+﻿  VendingMachine.cpp
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(155): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(166): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(177): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(454): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(558): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(614): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(620): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(671): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\informatica\curso iefp\modulo 16\mysqlproject\vendingmachine\vendingmachine\vendingmachine.cpp(1638): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  VendingMachine.vcxproj -> C:\Informatica\curso IEFP\modulo 16\mysqlProject\VendingMachine\x64\Release\VendingMachine.exe
