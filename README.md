@@ -1,2 +1,3 @@
 # C++_project
-# Vending machine
+# Vending machine:
+# simple console application with MySQL database and writing/reading from text files.
